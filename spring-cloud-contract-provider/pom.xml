@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.importsource.springcloud</groupId>
-	<artifactId>spring-cloud-contract-provider</artifactId>
+	<artifactId>spring-cloud-contract-demo-provider</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>spring-cloud-contract-provider</name>
+	<name>spring-cloud-contract-demo-provider</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
@@ -48,7 +48,6 @@
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
-			<optional>true</optional>
 		</dependency>
 
 		<dependency>
